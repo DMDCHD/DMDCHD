@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DMDCHD
+- 👋 Hi, I’m @DMD_CH
 - 👀 I’m interested in programation web and mobile
 - 🌱 I’m currently learning laravel, react, c#
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-DMDCHD/DMDCHD is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DMD_CH/DMD_CH is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
